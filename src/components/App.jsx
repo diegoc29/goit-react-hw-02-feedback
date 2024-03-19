@@ -47,7 +47,7 @@ class App extends Component {
             neutral={neutral}
             bad={bad}
             total={total}
-            positivePercentage={percentage} // Usar `percentage` en lugar de `positivePercentage`
+            positivePercentage={percentage}
           />
         </Section>
       </div>
